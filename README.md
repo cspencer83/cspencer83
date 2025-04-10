@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+I am a versatile Software Developer/Engineer with over 18 years of professional hands-on experience and demonstrated success in leading the design, implementation, stakeholder engagement and support of highly reliable mission-critical software systems with real-word impact in dynamic multidisciplinary operational environments throughout all stages of the SLDC. After all of that time working on propriatry solutions, I am creating this GitHub account to build a public-facing portfolio while experimenting and building my skills across various domains. However scant or entry-level it may seem at first depsite my experience, the content found here should be understood to be evolving as I figure out how to best build it out.
+
 
 <!--
 **cspencer83/cspencer83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
